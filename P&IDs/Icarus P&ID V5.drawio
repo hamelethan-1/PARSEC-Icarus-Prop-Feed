@@ -1,6 +1,6 @@
 <mxfile host="Electron">
   <diagram name="Page-1" id="t9c7cJgZ9y9Mx8l7IccP">
-    <mxGraphModel dx="1058" dy="602" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="734" dy="417" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -143,7 +143,7 @@
           <mxGeometry height="30" width="60" x="369.1" y="460.37999999999994" as="geometry" />
         </mxCell>
         <mxCell id="n3-NMIeOgN07ceJVYN8R-106" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontSize=11;" value="500 PSI @ Inlet" vertex="1">
-          <mxGeometry height="30" width="60" x="332" y="674.4399999999999" as="geometry" />
+          <mxGeometry height="30" width="60" x="330.75" y="682.2299999999999" as="geometry" />
         </mxCell>
         <mxCell id="n3-NMIeOgN07ceJVYN8R-112" parent="1" style="text;html=1;whiteSpace=wrap;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontSize=18;rotation=90;" value="&lt;span style=&quot;font-size: 11px;&quot;&gt;PURGE&lt;/span&gt;" vertex="1">
           <mxGeometry height="30" width="60" x="278.1000000000001" y="595.77" as="geometry" />
